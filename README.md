@@ -1,4 +1,4 @@
-# SAU-nCov-auto-report
+# SAU-nCov-auto-report ##Config Tag
 沈航情防控每日填报助手，用于解决忘记填写企业微信中身体状况每日打卡的问题。
 修改自IanSmith123/ucas-covid19 https://github.com/IanSmith123/ucas-covid19
 
